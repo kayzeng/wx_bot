@@ -1,0 +1,251 @@
+{'5007654238183138700': <Message: {'MsgId': '5007654238183138700'
+
+ 'FromUserName': '@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1'
+
+ 'ToUserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+
+ 'MsgType': 3
+
+ 'Content': '@e029e958339ac598b8f38598a2af1d95e5c2ea47a5cf8e5426810fc4e639115fca3ce7fef03d5710fa5ebb0d98e29eb40a1a6724b4723b2f3d1559caed3e497a9f89224a0da91b6cb2e79344ef9a582c7ee320180ed8d15e129c3a90af19461223e258315f0dde54438b66dcb4f835111d6adf41f4e1a120a25fb0a2dc200931853a9b775df30a8e3dedbbc504ce39c4143794f74a3720933d53a579cc4a2c4a9de6488609a89409b932b6e7e662ef657d21a5f120f03c17cada0742e391653799602086d76bc7f3abe97e544142f6924055b384189da574790de9dccebaf108c1ede88f34ed0e758d5e99467f8a7b883b8b3a3e945943f4d866f63d6e66ee3ed2ca569d5f9302e0f74d78bde306b7e8d04eb0ef52de138c4296c3d10b3b1c9fa6ef9d55b460dfdeea4e77a9eb3d1f1f81e4db9ee5059fb6d795b407a19272f6bce882de93ee7e13051b3d87eb24ee477bb0833c0e4a534e0bf080ce79070f2909303c945433b9a2e39b7469e2502c376e0c937621a3bc4363ba035882f5a9cb470ad8386dbb2d289dc5237979bdac83d330da5b8050746f3d766d372b2c0ddc568273e9113804bf21ed052d5c1b1e3863b98901e5b3cdee3830416d84093bd7f8a576f778d9d62e362fc484e123f841a5c6750811bf5043a525d92e28d8b87ea917a2ce369e8cf406ac7c50d0946bba2ebffb1a259682231b97fc81a19bde6fbffdde8bd9470fa09c21d86a29b4468be80b24ac798c512202e6223c47159f9e080f626eb035ed9e019fc13893e5e14ae6f3ed3da1d039868f946d118471463ae6e1954af41fafb04f46e3503a80149b6c3340903b99dc83c6f8fee16cc793a10771484f4ca48b5d83d84df1cae5d263d3139153b72c806a9d8ce28d2844eec895d99c0d022102f8165a904e7a42a30185191146e9b31e6c477ac87975fec6b3151533027f9704e581a7d51b5f4a8fd1'
+
+ 'Status': 3
+
+ 'ImgStatus': 2
+
+ 'CreateTime': 1525432025
+
+ 'VoiceLength': 0
+
+ 'PlayLength': 0
+
+ 'FileName': '180504-190706.png'
+
+ 'FileSize': ''
+
+ 'MediaId': ''
+
+ 'Url': ''
+
+ 'AppMsgType': 0
+
+ 'StatusNotifyCode': 0
+
+ 'StatusNotifyUserName': ''
+
+ 'RecommendInfo': {'UserName': ''
+
+ 'NickName': ''
+
+ 'QQNum': 0
+
+ 'Province': ''
+
+ 'City': ''
+
+ 'Content': ''
+
+ 'Signature': ''
+
+ 'Alias': ''
+
+ 'Scene': 0
+
+ 'VerifyFlag': 0
+
+ 'AttrStatus': 0
+
+ 'Sex': 0
+
+ 'Ticket': ''
+
+ 'OpCode': 0}
+
+ 'ForwardFlag': 0
+
+ 'AppInfo': {'AppID': ''
+
+ 'Type': 0}
+
+ 'HasProductId': 0
+
+ 'Ticket': ''
+
+ 'ImgHeight': 67
+
+ 'ImgWidth': 120
+
+ 'SubMsgType': 0
+
+ 'NewMsgId': 5007654238183138700
+
+ 'OriContent': ''
+
+ 'EncryFileName': ''
+
+ 'ActualNickName': '曾工'
+
+ 'IsAt': False
+
+ 'ActualUserName': '@cab2566427c7c223031d414321b43539a5aab5a627864b023bb1ed841b7e7c16'
+
+ 'User': <Chatroom: {'MemberList': <ContactList: [<ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+
+ 'NickName': '爆响蟋蟀'
+
+ 'AttrStatus': 33784097
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>
+
+ <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@5f017fc6747d744bddf693264b083468e83ffb25e573470884432afb66d7ee45'
+
+ 'NickName': '三个傻瓜'
+
+ 'AttrStatus': 33791841
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>
+
+ <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@cab2566427c7c223031d414321b43539a5aab5a627864b023bb1ed841b7e7c16'
+
+ 'NickName': '曾工'
+
+ 'AttrStatus': 17499581
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>]>
+
+ 'Uin': 0
+
+ 'UserName': '@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1'
+
+ 'NickName': '转发管道'
+
+ 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgetheadimg?seq=662290336&username=@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1&skey='
+
+ 'ContactFlag': 2051
+
+ 'MemberCount': 3
+
+ 'RemarkName': ''
+
+ 'HideInputBarFlag': 0
+
+ 'Sex': 0
+
+ 'Signature': ''
+
+ 'VerifyFlag': 0
+
+ 'OwnerUin': 0
+
+ 'PYInitial': 'ZFGD'
+
+ 'PYQuanPin': 'zhuaifaguandao'
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'StarFriend': 0
+
+ 'AppAccountFlag': 0
+
+ 'Statues': 0
+
+ 'AttrStatus': 0
+
+ 'Province': ''
+
+ 'City': ''
+
+ 'Alias': ''
+
+ 'SnsFlag': 0
+
+ 'UniFriend': 0
+
+ 'DisplayName': ''
+
+ 'ChatRoomId': 0
+
+ 'KeyWord': ''
+
+ 'EncryChatRoomId': '@f674fa999b623ede108981af33b4236f'
+
+ 'IsOwner': 1
+
+ 'IsAdmin': None
+
+ 'Self': <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+
+ 'NickName': '爆响蟋蟀'
+
+ 'AttrStatus': 33784097
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>}>
+
+ 'Type': 'Picture'
+
+ 'Text': <function get_download_fn.<locals>.download_fn at 0x101fa96a8>}>}

@@ -1,0 +1,256 @@
+原消息
+{'4267600831990362748': <Message: {'MsgId': '4267600831990362748'
+
+ 'FromUserName': '@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1'
+
+ 'ToUserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+
+ 'MsgType': 1
+
+ 'Content': '要撤回的消息'
+
+ 'Status': 3
+
+ 'ImgStatus': 1
+
+ 'CreateTime': 1525429401
+
+ 'VoiceLength': 0
+
+ 'PlayLength': 0
+
+ 'FileName': ''
+
+ 'FileSize': ''
+
+ 'MediaId': ''
+
+ 'Url': ''
+
+ 'AppMsgType': 0
+
+ 'StatusNotifyCode': 0
+
+ 'StatusNotifyUserName': ''
+
+ 'RecommendInfo': {'UserName': ''
+
+ 'NickName': ''
+
+ 'QQNum': 0
+
+ 'Province': ''
+
+ 'City': ''
+
+ 'Content': ''
+
+ 'Signature': ''
+
+ 'Alias': ''
+
+ 'Scene': 0
+
+ 'VerifyFlag': 0
+
+ 'AttrStatus': 0
+
+ 'Sex': 0
+
+ 'Ticket': ''
+
+ 'OpCode': 0}
+
+ 'ForwardFlag': 0
+
+ 'AppInfo': {'AppID': ''
+
+ 'Type': 0}
+
+ 'HasProductId': 0
+
+ 'Ticket': ''
+
+ 'ImgHeight': 0
+
+ 'ImgWidth': 0
+
+ 'SubMsgType': 0
+
+ 'NewMsgId': 4267600831990362748
+
+ 'OriContent': ''
+
+ 'EncryFileName': ''
+
+ 'ActualNickName': '曾工'
+
+ 'IsAt': False
+
+ 'ActualUserName': '@cab2566427c7c223031d414321b43539a5aab5a627864b023bb1ed841b7e7c16'
+
+ 'User': <Chatroom: {'MemberList': <ContactList: [<ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+
+ 'NickName': '爆响蟋蟀'
+
+ 'AttrStatus': 33784097
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>
+
+ <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@5f017fc6747d744bddf693264b083468e83ffb25e573470884432afb66d7ee45'
+
+ 'NickName': '三个傻瓜'
+
+ 'AttrStatus': 33791841
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>
+
+ <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@cab2566427c7c223031d414321b43539a5aab5a627864b023bb1ed841b7e7c16'
+
+ 'NickName': '曾工'
+
+ 'AttrStatus': 17499581
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>]>
+
+ 'Uin': 0
+
+ 'UserName': '@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1'
+
+ 'NickName': '转发管道'
+
+ 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgetheadimg?seq=662290336&username=@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1&skey='
+
+ 'ContactFlag': 2051
+
+ 'MemberCount': 3
+
+ 'RemarkName': ''
+
+ 'HideInputBarFlag': 0
+
+ 'Sex': 0
+
+ 'Signature': ''
+
+ 'VerifyFlag': 0
+
+ 'OwnerUin': 0
+
+ 'PYInitial': 'ZFGD'
+
+ 'PYQuanPin': 'zhuaifaguandao'
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'StarFriend': 0
+
+ 'AppAccountFlag': 0
+
+ 'Statues': 0
+
+ 'AttrStatus': 0
+
+ 'Province': ''
+
+ 'City': ''
+
+ 'Alias': ''
+
+ 'SnsFlag': 0
+
+ 'UniFriend': 0
+
+ 'DisplayName': ''
+
+ 'ChatRoomId': 0
+
+ 'KeyWord': ''
+
+ 'EncryChatRoomId': '@f674fa999b623ede108981af33b4236f'
+
+ 'IsOwner': 1
+
+ 'IsAdmin': None
+
+ 'Self': <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+
+ 'NickName': '爆响蟋蟀'
+
+ 'AttrStatus': 33784097
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>}>
+
+ 'Type': 'Text'
+
+ 'Text': '要撤回的消息'}>}
+
+4267600831990362748
+要撤回的消息
+@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac
