@@ -1,19 +1,18 @@
-原消息
-{'4267600831990362748': <Message: {'MsgId': '4267600831990362748'
+{'781642968970834961': <Message: {'MsgId': '781642968970834961'
 
- 'FromUserName': '@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1'
+ 'FromUserName': '@@863ff1dc15245e98b7c4c1850f515f1cfdb333469a5f3f4c834547fd6d624b4f'
 
- 'ToUserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+ 'ToUserName': '@2e8d3ba58f287b5189fc4734a49c2885ca5c7eb0f57efc27f4e7a675b4dc0664'
 
  'MsgType': 1
 
- 'Content': '要撤回的消息'
+ 'Content': '聚合反应能力的重要作用……'
 
  'Status': 3
 
  'ImgStatus': 1
 
- 'CreateTime': 1525429401
+ 'CreateTime': 1525491818
 
  'VoiceLength': 0
 
@@ -77,23 +76,23 @@
 
  'SubMsgType': 0
 
- 'NewMsgId': 4267600831990362748
+ 'NewMsgId': 781642968970834961
 
  'OriContent': ''
 
  'EncryFileName': ''
 
- 'ActualNickName': '曾工'
+ 'ActualNickName': '群主233'
 
  'IsAt': False
 
- 'ActualUserName': '@cab2566427c7c223031d414321b43539a5aab5a627864b023bb1ed841b7e7c16'
+ 'ActualUserName': '@213ac2ef62154f37649830c856b2403eba2900fcb8d67ec3ec33228a75dce239'
 
  'User': <Chatroom: {'MemberList': <ContactList: [<ChatroomMember: {'MemberList': <ContactList: []>
 
  'Uin': 0
 
- 'UserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+ 'UserName': '@2e8d3ba58f287b5189fc4734a49c2885ca5c7eb0f57efc27f4e7a675b4dc0664'
 
  'NickName': '爆响蟋蟀'
 
@@ -109,7 +108,7 @@
 
  'MemberStatus': 0
 
- 'DisplayName': ''
+ 'DisplayName': '爆响蟋蟀bot'
 
  'KeyWord': ''}>
 
@@ -117,7 +116,7 @@
 
  'Uin': 0
 
- 'UserName': '@5f017fc6747d744bddf693264b083468e83ffb25e573470884432afb66d7ee45'
+ 'UserName': '@3aae8c2bf7cae64b37954c35616f0cc59d0493ac022b0306a3f4d5585c8e6de8'
 
  'NickName': '三个傻瓜'
 
@@ -141,7 +140,7 @@
 
  'Uin': 0
 
- 'UserName': '@cab2566427c7c223031d414321b43539a5aab5a627864b023bb1ed841b7e7c16'
+ 'UserName': '@213ac2ef62154f37649830c856b2403eba2900fcb8d67ec3ec33228a75dce239'
 
  'NickName': '曾工'
 
@@ -157,17 +156,17 @@
 
  'MemberStatus': 0
 
- 'DisplayName': ''
+ 'DisplayName': '群主233'
 
  'KeyWord': ''}>]>
 
  'Uin': 0
 
- 'UserName': '@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1'
+ 'UserName': '@@863ff1dc15245e98b7c4c1850f515f1cfdb333469a5f3f4c834547fd6d624b4f'
 
  'NickName': '转发管道'
 
- 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgetheadimg?seq=662290336&username=@@c63b0ec8a00c8f360b319cff25c3eec3f687dcb5001bab99af1e025b20dac6a1&skey='
+ 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgetheadimg?seq=0&username=@@863ff1dc15245e98b7c4c1850f515f1cfdb333469a5f3f4c834547fd6d624b4f&skey=@crypt_c0c64b42_537a74bc7af9982bc91521a312e407f1'
 
  'ContactFlag': 2051
 
@@ -217,7 +216,7 @@
 
  'KeyWord': ''
 
- 'EncryChatRoomId': '@f674fa999b623ede108981af33b4236f'
+ 'EncryChatRoomId': ''
 
  'IsOwner': 1
 
@@ -227,7 +226,7 @@
 
  'Uin': 0
 
- 'UserName': '@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac'
+ 'UserName': '@2e8d3ba58f287b5189fc4734a49c2885ca5c7eb0f57efc27f4e7a675b4dc0664'
 
  'NickName': '爆响蟋蟀'
 
@@ -243,14 +242,16 @@
 
  'MemberStatus': 0
 
- 'DisplayName': ''
+ 'DisplayName': '爆响蟋蟀bot'
 
- 'KeyWord': ''}>}>
+ 'KeyWord': ''}>
+
+ 'HeadImgUpdateFlag': 1
+
+ 'ContactType': 0
+
+ 'ChatRoomOwner': '@2e8d3ba58f287b5189fc4734a49c2885ca5c7eb0f57efc27f4e7a675b4dc0664'}>
 
  'Type': 'Text'
 
- 'Text': '要撤回的消息'}>}
-
-4267600831990362748
-要撤回的消息
-@c1878396b32a521a79c3da7d6a7e6f24788a117bb7c4d58b77cc1f6912e72fac
+ 'Text': '聚合反应能力的重要作用……'}>}
