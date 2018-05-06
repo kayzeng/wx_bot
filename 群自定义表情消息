@@ -1,0 +1,257 @@
+{'1968247824698777292': <Message: {'MsgId': '1968247824698777292'
+
+ 'FromUserName': '@@c022e1fb3a0cbb81b5fbbb649f2ec15e83c4b2a657e2675af76969fca1f66ade'
+
+ 'ToUserName': '@04918c247681ade9547c140c69da4742ebb9babf66e72d91bf896338385e1a2a'
+
+ 'MsgType': 47
+
+ 'Content': '<msg><emoji fromusername="xxx" tousername="xxx" type="2" idbuffer="media:0_0" md5="5b4ac141b39a11c396a953a6ab855fd1" len="716837" productid="" androidmd5="5b4ac141b39a11c396a953a6ab855fd1" androidlen="716837" s60v3md5="5b4ac141b39a11c396a953a6ab855fd1" s60v3len="716837" s60v5md5="5b4ac141b39a11c396a953a6ab855fd1" s60v5len="716837" cdnurl="http://emoji.qpic.cn/wx_emoji/lV0d907m3OVBVADpLJaEWLm2qxQdbNd0JrGzJkrB7tga69FdfzaDlicYib0cP39TCI/" designerid="" thumburl="" encrypturl="http://emoji.qpic.cn/wx_emoji/lV0d907m3OVBVADpLJaEWLm2qxQdbNd0JrGzJkrB7tiawEAVHJGZtLs6GBERly4GA/" aeskey="882316fc320fc2e3001ae095e85e72c1" externurl="http://emoji.qpic.cn/wx_emoji/DwTw1jPRfRIPuSVmpK9g0f00VkqibQFmkZBEI26bicIJqMAWBLUaoW8iaiapib7flYicDW/" externmd5="e5efefd061969862dc432f859ca804c4" width="353" height="274" tpurl="" tpauthkey=""></emoji><gameext type="0" content="0"></gameext></msg>'
+
+ 'Status': 3
+
+ 'ImgStatus': 2
+
+ 'CreateTime': 1525586198
+
+ 'VoiceLength': 0
+
+ 'PlayLength': 0
+
+ 'FileName': '180506-135638.gif'
+
+ 'FileSize': ''
+
+ 'MediaId': ''
+
+ 'Url': ''
+
+ 'AppMsgType': 0
+
+ 'StatusNotifyCode': 0
+
+ 'StatusNotifyUserName': ''
+
+ 'RecommendInfo': {'UserName': ''
+
+ 'NickName': ''
+
+ 'QQNum': 0
+
+ 'Province': ''
+
+ 'City': ''
+
+ 'Content': ''
+
+ 'Signature': ''
+
+ 'Alias': ''
+
+ 'Scene': 0
+
+ 'VerifyFlag': 0
+
+ 'AttrStatus': 0
+
+ 'Sex': 0
+
+ 'Ticket': ''
+
+ 'OpCode': 0}
+
+ 'ForwardFlag': 0
+
+ 'AppInfo': {'AppID': ''
+
+ 'Type': 0}
+
+ 'HasProductId': 0
+
+ 'Ticket': ''
+
+ 'ImgHeight': 274
+
+ 'ImgWidth': 353
+
+ 'SubMsgType': 0
+
+ 'NewMsgId': 1968247824698777292
+
+ 'OriContent': ''
+
+ 'EncryFileName': ''
+
+ 'ActualNickName': '群主233'
+
+ 'IsAt': False
+
+ 'ActualUserName': '@f045a126d61af862a4dac6f10053ab6c0a5f9878d378b146df39b90f3af138d7'
+
+ 'User': <Chatroom: {'MemberList': <ContactList: [<ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@84b0d0253ee87390b0de54652f926bbff7b7097b83e9d7632d88c6e454c76973'
+
+ 'NickName': '爆响蟋蟀'
+
+ 'AttrStatus': 33784097
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': '爆响蟋蟀bot'
+
+ 'KeyWord': ''}>
+
+ <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@04918c247681ade9547c140c69da4742ebb9babf66e72d91bf896338385e1a2a'
+
+ 'NickName': '三个傻瓜'
+
+ 'AttrStatus': 33791841
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>
+
+ <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@f045a126d61af862a4dac6f10053ab6c0a5f9878d378b146df39b90f3af138d7'
+
+ 'NickName': '曾工'
+
+ 'AttrStatus': 17499581
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': '群主233'
+
+ 'KeyWord': ''}>]>
+
+ 'Uin': 0
+
+ 'UserName': '@@c022e1fb3a0cbb81b5fbbb649f2ec15e83c4b2a657e2675af76969fca1f66ade'
+
+ 'NickName': '转发管道'
+
+ 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgetheadimg?seq=0&username=@@c022e1fb3a0cbb81b5fbbb649f2ec15e83c4b2a657e2675af76969fca1f66ade&skey=@crypt_78191ba2_fa121b4c084ac33ce965f5f166a365b0'
+
+ 'ContactFlag': 3
+
+ 'MemberCount': 3
+
+ 'RemarkName': ''
+
+ 'HideInputBarFlag': 0
+
+ 'Sex': 0
+
+ 'Signature': ''
+
+ 'VerifyFlag': 0
+
+ 'OwnerUin': 0
+
+ 'PYInitial': 'ZFGD'
+
+ 'PYQuanPin': 'zhuaifaguandao'
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'StarFriend': 0
+
+ 'AppAccountFlag': 0
+
+ 'Statues': 0
+
+ 'AttrStatus': 0
+
+ 'Province': ''
+
+ 'City': ''
+
+ 'Alias': ''
+
+ 'SnsFlag': 0
+
+ 'UniFriend': 0
+
+ 'DisplayName': ''
+
+ 'ChatRoomId': 0
+
+ 'KeyWord': ''
+
+ 'EncryChatRoomId': ''
+
+ 'IsOwner': 0
+
+ 'IsAdmin': None
+
+ 'Self': <ChatroomMember: {'MemberList': <ContactList: []>
+
+ 'Uin': 0
+
+ 'UserName': '@04918c247681ade9547c140c69da4742ebb9babf66e72d91bf896338385e1a2a'
+
+ 'NickName': '三个傻瓜'
+
+ 'AttrStatus': 33791841
+
+ 'PYInitial': ''
+
+ 'PYQuanPin': ''
+
+ 'RemarkPYInitial': ''
+
+ 'RemarkPYQuanPin': ''
+
+ 'MemberStatus': 0
+
+ 'DisplayName': ''
+
+ 'KeyWord': ''}>
+
+ 'HeadImgUpdateFlag': 1
+
+ 'ContactType': 0
+
+ 'ChatRoomOwner': '@84b0d0253ee87390b0de54652f926bbff7b7097b83e9d7632d88c6e454c76973'}>
+
+ 'Type': 'Picture'
+
+ 'Text': <function get_download_fn.<locals>.download_fn at 0x10e5dc268>}>}

@@ -22,15 +22,12 @@ def _(msg):
 # 收集群图片消息
 @itchat.msg_register([PICTURE], isGroupChat=True)
 def download_files(msg):
-
-    # 下载图片到本地
-    msg.download(msg.fileName)
-
     # 存到字典
     msg_dict[msg.MsgId] = msg
-    # print(msg_dict)
 
-
+    if msg['Content'] != '':
+        # 下载图片到本地
+        msg.download(msg.fileName)
 
 # 捕获撤回消息的提醒，查找旧消息并回复
 @itchat.msg_register(NOTE, isGroupChat=True)
@@ -47,10 +44,10 @@ def _(msg):
             itchat.send(msg=msg['ActualNickName']+' 刚才发过这条消息：'+old_msg_text, toUserName=msg['FromUserName'])
 
         # 原消息是图片消息
-        elif old_msg['Type'] == 'Picture':
+        elif old_msg['Type'] == 'Picture' and old_msg['Content'] != '':
 
             # 发送文本消息
-            itchat.send_msg(msg=msg['ActualNickName']+' 刚才发过这张图片', toUserName=msg['FromUserName'])
+            itchat.send_msg(msg=msg['ActualNickName']+' 刚才发过这张图片👇', toUserName=msg['FromUserName'])
 
             # 发送图片消息
             old_msg_img_file_dir = msg_dict[old_msg_id]['FileName']
@@ -76,7 +73,7 @@ def delete_out_date_msg():
         if msg_dict[n]['Type'] == 'Text':
             msg_dict.pop(n)
 
-        elif msg_dict[n]['Type'] == 'Picture':
+        elif msg_dict[n]['Type'] == 'Picture' and msg_dict[n]['Content'] != '':
             os.remove(msg_dict[n]['FileName'])
             msg_dict.pop(n)
 
