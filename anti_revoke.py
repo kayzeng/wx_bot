@@ -65,6 +65,11 @@ def _(msg):
 
 # 定时干掉字典里和文件夹里的超时消息备份
 out_date_msg_dict = []
+# 过期时间，正常是120秒，测试的时候可以少一点
+out_date_time = 8
+# 删除间隔时间
+delete_cycle_time = 2
+
 
 def delete_out_date_msg():
 
@@ -74,7 +79,8 @@ def delete_out_date_msg():
         current_time = time.time()
         current_time_int = int(current_time)
 
-        if (current_time_int - msg_dict[m]['CreateTime']) > 8:
+        #
+        if (current_time_int - msg_dict[m]['CreateTime']) > out_date_time:
 
             out_date_msg_dict.append(m)
 
@@ -94,7 +100,7 @@ def delete_out_date_msg():
         out_date_msg_dict.clear()
 
 
-    t = Timer(2, delete_out_date_msg)
+    t = Timer(delete_cycle_time, delete_out_date_msg)
     t.start()
 
 delete_out_date_msg()
